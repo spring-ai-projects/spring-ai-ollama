@@ -2,5 +2,5 @@
 
 All the concepts of Spring AI demonstated using Ollama
 
-Link to my [Spring AI OpenAI Repository](https://github.com/sainathkistapur/spring-ai-ollama)
+## Link to my full project repository: [**Spring AI Ollama**](https://github.com/sainathkistapur/spring-ai-ollama) 
 
